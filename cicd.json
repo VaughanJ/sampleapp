@@ -1,0 +1,26 @@
+{
+    "application":{
+        "name":"",
+        "type":""
+    },
+    "build":{
+        "sourcepath":"",
+        "outputpath":""
+    },
+    "test":{
+        "enabled":"",
+        "sourcepath":"",
+        "filepattern":"",
+        "outputpath":""
+    },
+    "publish":{
+        "enabled":"",
+        "url":""
+    },
+    "deploy":{
+        "enabled":"",
+        "url":"",
+        "createrelease":"",
+        "deployrelease":""
+    }
+}
